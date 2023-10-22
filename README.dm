@@ -1,6 +1,6 @@
 #This is a mini-portal games website
 #You will find five games on this website:
-    1. Number gusser
+    1.Number gusser
     2.Rock Paper Scissor
     3.HangMan
     4.Blackjack
